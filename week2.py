@@ -83,7 +83,7 @@ print(email_input)
 
 # Tuples
 my_tuple = ("String values",1231213,False, ("I am inside a tuple!",2,3))
-print(my_tuple[3][0])
+#print(my_tuple[3][0])
 
 #users = (("Blabla", "Aaaa","blabal@boun.edu.tr"),("Bla", "bla@boun.edu.tr"))
 #print(users[0][0][0] + users[0][1][0])

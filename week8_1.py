@@ -92,13 +92,13 @@ class Car(Vehicle):
 
 
 
-new_car = Car(4,4,100,"Honda", 240, 5, 2010, "red", "sedan")
-new_car.change_color("black")
+#new_car = Car(4,4,100,"Honda", 240, 5, 2010, "red", "sedan")
+#new_car.change_color("black")
 
-new_car.slowdown()
-new_car.stop_engine()
+#new_car.slowdown()
+#new_car.stop_engine()
 
-new_car.speedup()
-new_car.start_engine()
-new_car.speedup()
-new_car.speedup()
+#new_car.speedup()
+#new_car.start_engine()
+#new_car.speedup()
+#new_car.speedup()
